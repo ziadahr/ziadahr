@@ -1,33 +1,20 @@
 # Ziad Ahrbil
 
-Self-taught computer science student building toward **Python backend engineering**.
+**Self-Taught Computer Science Student → Backend Engineer**
 
-I study **computer science fundamentals through OSSU** while building real software with Python, FastAPI, PostgreSQL, Git, Linux, and Docker.
+Building production-ready software by pairing core computer science theory with practical backend systems engineering.
 
-### Current focus
+Currently following two complementary self-taught tracks:
+* 🎓 **CS Fundamentals:** [OSSU Computer Science Curriculum](https://cs.ossu.dev)
+* ⚡ **Backend Engineering:** [Boot.dev](https://www.boot.dev)
 
-* 🐍 Python backend development
-* ⚡ FastAPI and REST APIs
-* 🗄️ SQL and PostgreSQL
-* 🧪 Testing and software quality
-* 🐧 Linux, Git, and developer tooling
-* 🎓 OSSU Computer Science
+### Public work
 
-### Engineering approach
+* [OSSU CS Projects](https://github.com/ziadahr/ossu-cs-projects) — projects and weekly logs from my OSSU journey
+* [Boot.dev Backend Project](https://github.com/ziadahr/bootdev-backend-projects) — projects and weekly logs from my Boot.dev journey
 
-**Understand the fundamentals → build → test → document → deploy → repeat.**
+🔒 Private repositories contain course notes, exercises, problem sets, and other coursework.
 
-I care about understanding how software works underneath the framework, not just getting code to run.
+> Learn the fundamentals. Build things. Understand what you build.
 
-### Selected work
-
-* [OSSU CS Projects](https://github.com/ziadahr/ossu-cs-projects) — hands-on projects and work produced while studying computer science
-
-### Long-term direction
-
-Build strong software engineering fundamentals first, then use that foundation to move toward more advanced backend, data, and AI systems.
-
----
-
-> **Learn the fundamentals. Build things. Understand what you build.**
 
