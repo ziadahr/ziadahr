@@ -1,8 +1,8 @@
 # Ziad Ahrbil
 
-**Self-Taught Computer Science Student → Backend Engineer**
+Self-taught computer science student building toward software engineering.
 
-Building production-ready software by pairing core computer science theory with practical backend systems engineering.
+Combining a rigorous computer science foundation through OSSU with practical backend and systems development through Boot.dev.
 
 Currently following two complementary self-taught tracks:
 * 🎓 **CS Fundamentals:** [OSSU](https://cs.ossu.dev)
